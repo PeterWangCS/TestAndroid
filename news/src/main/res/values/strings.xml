@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_activity_app_start">AppStartActivity</string>
+
+    <string name="loading_info">加载中...</string>
+</resources>
